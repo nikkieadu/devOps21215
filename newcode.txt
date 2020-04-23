@@ -1,0 +1,4 @@
+git push
+git add
+git ammend
+git log --oneline
